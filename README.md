@@ -16,7 +16,7 @@ cd dockerfile-graphql-blog-schema
 * Build the image with `docker build -t graphql-blog-schema .`
 * Wait a while while it clones the repo and installs the application
 * Run a container from the image with `docker run -p 3000:3000 -d graphql-blog-schema`
-* Head to http://localhost:3000 in a browser
+* Head to [http://localhost:3000](http://localhost:3000) in a browser
 
 ## What does it do?
 
